@@ -6,4 +6,8 @@ A sentiment analysis was conducted on the survery comments using [Google Cloud N
 
 ![SentimentDist](https://github.com/frfeng/a2healthystreets/blob/main/a2healthystreets_comments_sentiment_Q1.png)
 
+![SentimentDist](https://github.com/frfeng/a2healthystreets/blob/main/a2healthystreets_comments_sentiment_Q2.png)
+
+![SentimentDist](https://github.com/frfeng/a2healthystreets/blob/main/a2healthystreets_comments_sentiment_Q3.png)
+
 The code will be uploaded at a later time once I clean it up. 
